@@ -1,4 +1,4 @@
-package Day_3Assignment;
+package Day3Assignment;
 
 import java.io.File;
 import java.util.HashMap;
