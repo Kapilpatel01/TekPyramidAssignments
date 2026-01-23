@@ -1,4 +1,4 @@
-package Day3Assignment;
+package Day_3Assignment;
 
 import java.util.HashSet;
 

@@ -1,4 +1,4 @@
-package Day3Assignment;
+package Day_3Assignment;
 
 public class Assignment1 {
     static void main() {
